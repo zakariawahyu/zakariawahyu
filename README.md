@@ -1,13 +1,18 @@
-<h2 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Zakaria Wahyu</h2>
+<h2 align="center">Hi, I'm Zakaria Wahyu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
-<img align="right" alt="GIF" height="80px" src="https://github.com/zakariawahyu/zakariawahyu/blob/master/asset/laravel.gif" />
-<img align="right" alt="GIF" height="80px" src="https://media.giphy.com/media/JqDcpPX8vWahUny0pE/giphy.gif" />
+<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" />
 
-**✨ My Skills**
-- Interested in backend-ish things 
-- Web Developer
+**✨ Personal Stuffs:**
+- 🔭 I’m currently working on A Platform for e-learning 
+- 🌱 Interested in backend-ish things
 
-<h3>Where to find me:</h3>
+**⚡ Technologies**
+- Mobile application development using java
+- Web Development using HTML/CSS, PHP, JavaScript, CodeIgniter, Laravel
+- Database using MySQL, Oracle, Firebase
+
+
+
 <p align="center">
 <a href="https://github.com/zakariawahyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.twitter.com/_zakariawahyu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
