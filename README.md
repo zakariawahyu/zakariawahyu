@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Zakaria Wahyu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<img align="right" alt="GIF" height="175px" src="https://media.giphy.com/media/cID9NShVKKjHs5ygCP/giphy.gif" />
+<img align="right" alt="GIF" height="175px" src="https://www.nayakapratama.co.id/wp-content/uploads/2019/07/Website-Maintenance.gif" />
 
 **✨ Personal Stuffs:**
 - 🔭 I’m currently working on A Platform for e-learning 
