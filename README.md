@@ -19,3 +19,10 @@
 <a href="https://www.linkedin.com/in/zakariawahyu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/_zakariawahyu"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <p align="center"><a href="https://www.zakariawahyu.site">🌐 My personal portfolio website</a></p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/zakariawahyu"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zakariawahyu" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakariawahyu&show_icons=true&locale=en&layout=compact" alt="zakariawahyu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zakariawahyu&show_icons=true&locale=en" alt="zakariawahyu" /></p>
