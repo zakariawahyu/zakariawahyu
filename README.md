@@ -19,3 +19,6 @@
 <a href="https://www.linkedin.com/in/zakariawahyu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://www.instagram.com/_zakariawahyu"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a></p>
 <p align="center"><a href="https://www.zakariawahyu.site">🌐 My personal portfolio website</a></p>
+
+![](https://github-readme-stats.vercel.app/api?username=zakariawahyu&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariawahyu&hide=html)
