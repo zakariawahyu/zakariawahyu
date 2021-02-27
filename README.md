@@ -21,4 +21,7 @@
 <p align="center"><a href="https://www.zakariawahyu.site">🌐 My personal portfolio website</a></p>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
