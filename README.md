@@ -3,12 +3,11 @@
 <img align="right" alt="GIF" height="175px" src="https://www.nayakapratama.co.id/wp-content/uploads/2019/07/Website-Maintenance.gif" />
 
 **✨ Personal Stuffs:**
-- 🔭 I’m currently working on A Platform for e-learning 
+- 🔭 I’m currently Backend Developer
 - 🌱 Interested in backend-ish things
 
 **⚡ Technologies**
-- Mobile application development using java
-- Web Development using HTML/CSS, PHP, JavaScript, CodeIgniter, Laravel, Golang
+- Web Development using PHP, JavaScript, CodeIgniter, Laravel, Golang, NodeJS
 - Database using MySQL, Oracle, Firebase, MongoDB
 - And keep learning
 
