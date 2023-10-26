@@ -80,8 +80,8 @@ HTML                     3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zakariawahyu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://medium.com/@zakariawahyu"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-<a href="https://medium.com/@zakariawahyu"><img src="https://img.shields.io/badge/Portfolio-2300843e?style=for-the-badge&logo=About.me&logoColor=white" height=25></a>
-<a href="https://www.twitter.com/_zakariawahyu"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-<a href="https://www.instagram.com/_zakariawahyu"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/zakariawahyu" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://medium.com/@zakariawahyu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height=25></a>
+<a href="https://medium.com/@zakariawahyu" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2300843e?style=for-the-badge&logo=About.me&logoColor=white" height=25></a>
+<a href="https://www.twitter.com/_zakariawahyu" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
+<a href="https://www.instagram.com/_zakariawahyu" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
