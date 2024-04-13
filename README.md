@@ -42,17 +42,16 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-minisitev4               14 mins             ███████████████████░░░░░░   77.95% 
-hijabhunt                4 mins              █████░░░░░░░░░░░░░░░░░░░░   22.05%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    18 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
