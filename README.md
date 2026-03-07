@@ -42,23 +42,22 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      5 hrs 12 mins       ████████████░░░░░░░░░░░░░   48.79% 
-Blade Template           4 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.56% 
-HTML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83% 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+PHP                      5 hrs 49 mins       █████████████░░░░░░░░░░░░   52.76% 
+Blade Template           4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   39.06% 
+HTML                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8% 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.26%
 
 🔥 Editors: 
-VS Code                  10 hrs 40 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 2 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mudik-update             9 hrs 46 mins       ██████████████████████░░░   91.46% 
-teman-mudik-2026         33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-hijabhunt                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.02% 
-minisitev4               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.3%
+mudik-update             10 hrs 11 mins      ███████████████████████░░   92.36% 
+teman-mudik-2026         45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.84% 
+minisitev4               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.8%
 
 💻 Operating System: 
-Windows                  10 hrs 40 mins      █████████████████████████   100.0%
+Windows                  11 hrs 2 mins       █████████████████████████   100.0%
 
 ```
 
