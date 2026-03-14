@@ -42,21 +42,21 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      8 hrs 43 mins       █████████████████░░░░░░░░   71.11% 
-Blade Template           2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51% 
-JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-HTML                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03% 
+PHP                      8 hrs 35 mins       █████████████████░░░░░░░░   70.27% 
+Blade Template           2 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   22.91% 
+JavaScript               39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.32% 
+HTML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44% 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  12 hrs 16 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 13 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mudik-update             11 hrs 54 mins      ████████████████████████░   96.97% 
-teman-mudik-2026         22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.03%
+mudik-update             12 hrs 3 mins       ████████████████████████░   98.56% 
+teman-mudik-2026         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.44%
 
 💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.0%
+Windows                  12 hrs 13 mins      █████████████████████████   100.0%
 
 ```
 
