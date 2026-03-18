@@ -42,23 +42,25 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      6 hrs 23 mins       ██████████████░░░░░░░░░░░   58.07% 
-Blade Template           3 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   28.69% 
-JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.08% 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.96% 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.17%
+PHP                      4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.62% 
+Blade Template           2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   27.11% 
+Volt                     1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
+HTML                     50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 🔥 Editors: 
-VS Code                  11 hrs              █████████████████████████   100.0%
+VS Code                  10 hrs 25 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-mudik-update             10 hrs 34 mins      ████████████████████████░   96.04% 
-microsite2026            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
-teman-mudik-2026         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+mudik-update             7 hrs 53 mins       ███████████████████░░░░░░   75.67% 
+minisitev4               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
+cnbc-lps                 23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+microsite2026            15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51% 
+teman-mudik-2026         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68%
 
 💻 Operating System: 
-Windows                  9 hrs 18 mins       █████████████████████░░░░   84.59% 
-Linux                    1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.41%
+Windows                  6 hrs 37 mins       ████████████████░░░░░░░░░   63.57% 
+Linux                    3 hrs 47 mins       █████████░░░░░░░░░░░░░░░░   36.43%
 
 ```
 
