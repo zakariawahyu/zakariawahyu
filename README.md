@@ -42,16 +42,19 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Volt                     1 hr 37 mins        ████████████████████░░░░░   81.87% 
+HTML                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+PHP                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.78%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 58 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+minisitev4               1 hr 41 mins        █████████████████████░░░░   85.64% 
+cnbc-lps                 17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.36%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 58 mins        █████████████████████████   100.0%
 
 ```
 
