@@ -42,25 +42,25 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JSON                     1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   28.94% 
-Volt                     1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
-Astro                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.32% 
-TypeScript               1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
-Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.92%
+Astro                    3 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   35.15% 
+JSON                     2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   23.61% 
+TypeScript               1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
+Volt                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.86% 
+Docker                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.87%
 
 🔥 Editors: 
-VS Code                  5 hrs 32 mins       ████████████████████░░░░░   83.23% 
-Antigravity              1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.77%
+VS Code                  8 hrs 17 mins       ██████████████████████░░░   87.51% 
+Antigravity              1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49%
 
 🐱‍💻 Projects: 
-zakaria-cv               2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   38.71% 
-minisitev4               1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   22.25% 
-sanjib-roy               1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-antigravity-resume       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
-astro-cactus             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.25%
+zakaria-cv               4 hrs 57 mins       █████████████░░░░░░░░░░░░   52.46% 
+sanjib-roy               2 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+minisitev4               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
+antigravity-resume       21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.74% 
+astro-cactus             20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.69%
 
 💻 Operating System: 
-Linux                    6 hrs 39 mins       █████████████████████████   100.0%
+Linux                    9 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
