@@ -42,25 +42,22 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Astro                    9 hrs 2 mins        ███████████████░░░░░░░░░░   61.46% 
-TypeScript               2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
-PHP                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-Markdown                 33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.81% 
-YAML                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.76%
+Astro                    6 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.17% 
+PHP                      2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73% 
+TypeScript               2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+YAML                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.86% 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84%
 
 🔥 Editors: 
-VS Code                  14 hrs 39 mins      █████████████████████████   99.55% 
-Antigravity              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+VS Code                  13 hrs 50 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-zakaria-cv               12 hrs 38 mins      █████████████████████░░░░   85.82% 
-minisitev4               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-sanjib-roy               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.63% 
-inews-fe-nuxtjs          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26% 
-cnbc-lps                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
+zakaria-cv               10 hrs 30 mins      ███████████████████░░░░░░   75.87% 
+minisitev4               3 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   22.8% 
+inews-fe-nuxtjs          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
 
 💻 Operating System: 
-Linux                    14 hrs 43 mins      █████████████████████████   100.0%
+Linux                    13 hrs 50 mins      █████████████████████████   100.0%
 
 ```
 
