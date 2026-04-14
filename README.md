@@ -42,22 +42,23 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Astro                    2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   26.89% 
-PHP                      2 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   26.68% 
-TypeScript               1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.9% 
-YAML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.65% 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.78%
+PHP                      4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   42.83% 
+Astro                    2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78% 
+YAML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
+Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
 
 🔥 Editors: 
-VS Code                  9 hrs 12 mins       █████████████████████████   100.0%
+VS Code                  10 hrs 20 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-zakaria-cv               5 hrs 51 mins       ████████████████░░░░░░░░░   63.68% 
-minisitev4               3 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   34.31% 
-inews-fe-nuxtjs          11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.01%
+zakaria-cv               5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.76% 
+minisitev4               4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.12% 
+hijabhunt                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
+mudik-update             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
 
 💻 Operating System: 
-Linux                    9 hrs 12 mins       █████████████████████████   100.0%
+Linux                    10 hrs 20 mins      █████████████████████████   100.0%
 
 ```
 
