@@ -42,23 +42,23 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      4 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   42.83% 
-Astro                    2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.78% 
-YAML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
-TypeScript               59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.66% 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.14%
+PHP                      5 hrs 39 mins       ██████████████░░░░░░░░░░░   56.79% 
+YAML                     1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.53% 
+Astro                    52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+TypeScript               46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.77% 
+Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.03%
 
 🔥 Editors: 
-VS Code                  10 hrs 20 mins      █████████████████████████   100.0%
+VS Code                  9 hrs 57 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-zakaria-cv               5 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.76% 
-minisitev4               4 hrs 40 mins       ███████████░░░░░░░░░░░░░░   45.12% 
-hijabhunt                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.84% 
-mudik-update             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.29%
+minisitev4               5 hrs 25 mins       █████████████░░░░░░░░░░░░   54.37% 
+zakaria-cv               3 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   35.24% 
+hijabhunt                52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.79% 
+mudik-update             9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
 
 💻 Operating System: 
-Linux                    10 hrs 20 mins      █████████████████████████   100.0%
+Linux                    9 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
