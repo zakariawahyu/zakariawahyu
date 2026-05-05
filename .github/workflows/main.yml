@@ -22,6 +22,7 @@ jobs:
           SHOW_LOC_CHART: false
           SHOW_LANGUAGE: false
           SHOW_SHORT_INFO: false
-          ### commit
+          SHOW_UPDATED_DATE: false
+          SHOW_PROFILE_VIEWS: false
           COMMIT_BY_ME: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
