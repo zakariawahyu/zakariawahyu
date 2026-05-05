@@ -42,24 +42,24 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-PHP                      7 hrs 56 mins       ████████████████░░░░░░░░░   67.12% 
-Volt                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.18% 
-Bash                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.1% 
-HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+PHP                      8 hrs 3 mins        ██████████████████░░░░░░░   73.89% 
+Volt                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
+HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
 
 🔥 Editors: 
-VS Code                  11 hrs 50 mins      █████████████████████████   100.0%
+VS Code                  10 hrs 54 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-personofthemonth         4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   36.93% 
-minisitev5               2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.62% 
-minisitev4               2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.25% 
-go-ohlc-codex            1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-cnbc-lps                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.61%
+personofthemonth         4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.1% 
+minisitev5               3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.77% 
+minisitev4               2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   23.41% 
+cnbc-lps                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
+hijabhunt                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
 
 💻 Operating System: 
-Linux                    11 hrs 50 mins      █████████████████████████   100.0%
+Linux                    10 hrs 54 mins      █████████████████████████   100.0%
 
 ```
 
