@@ -36,46 +36,55 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1853 commits        ██████████████████░░░░░░░   72.33 % 
+🌆 Daytime                259 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌃 Evening                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+🌙 Night                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  375 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+Wednesday                412 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Thursday                 377 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Friday                   379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Saturday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Sunday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+```
+
+
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-PHP                      8 hrs 3 mins        ██████████████████░░░░░░░   73.89% 
-Volt                     2 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.02% 
-HTML                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.79% 
-Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.35%
+🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  10 hrs 54 mins      █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-personofthemonth         4 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.1% 
-minisitev5               3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   29.77% 
-minisitev4               2 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   23.41% 
-cnbc-lps                 18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.84% 
-hijabhunt                14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18%
+VS Code                  10 hrs 54 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 54 mins      █████████████████████████   100.0%
-
+Linux                    10 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
 
 ```text
-Go                       22 repos            ███████████░░░░░░░░░░░░░░   44.0% 
-PHP                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Java                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.0% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
-
+Go                       22 repos            ███████████░░░░░░░░░░░░░░   44.00 % 
+PHP                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
+
+ Last Updated on 05/05/2026 09:22:47 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
