@@ -38,6 +38,39 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C429%20hrs%2012%20mins-blue?style=flat)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1868 commits        ██████████████████░░░░░░░   72.40 % 
+🌆 Daytime                262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+🌃 Evening                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+🌙 Night                  180 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   319 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Tuesday                  380 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Wednesday                415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Thursday                 379 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
+Friday                   381 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Saturday                 417 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Sunday                   289 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+🔥 Editors: 
+VS Code                  3 hrs 50 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    3 hrs 50 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Go** 
 
 ```text
