@@ -36,24 +36,26 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C541%20hrs-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1985 commits        ██████████████████░░░░░░░   72.52 % 
-🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌞 Morning                1986 commits        ██████████████████░░░░░░░   72.53 % 
+🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Monday                   336 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Tuesday                  426 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
 Thursday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Friday                   392 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
 Saturday                 452 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Sunday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Sunday                   304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
 ```
 
 
@@ -63,12 +65,12 @@ Sunday                   304 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  41 hrs 53 mins      ████████████████████████░   97.30 % 
-Claude Code              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  39 hrs 5 mins       ████████████████████████░   97.24 % 
+Claude Code              1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    43 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    40 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Go** 
