@@ -36,11 +36,15 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C415%20hrs%2028%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%206%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1990 commits        ██████████████████░░░░░░░   72.57 % 
-🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+🌞 Morning                1991 commits        ██████████████████░░░░░░░   72.58 % 
+🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 ```
@@ -49,10 +53,10 @@
 ```text
 Monday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Thursday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
+Thursday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
+Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Sunday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
@@ -63,38 +67,37 @@ Sunday                   305 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  22 hrs 34 mins      ███████████████████████░░   92.93 % 
-Claude Code              1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+VS Code                  20 hrs 11 mins      ███████████████████████░░   93.22 % 
+Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 
 💻 Operating System: 
-Linux                    24 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    21 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 45 mins (56.62%)
+⏱ AI Coding Time: 9 hrs 44 mins (45.0%)
 
-✍️ 11,294 lines written by AI, 1,786 lines written by hand (86.35% AI-written)
+✍️ 8,840 lines written by AI, 4,543 lines written by hand (66.05% AI-written)
 
-🔤 57,852,987 Input Tokens, 598,120 Output Tokens
+🔤 42,565,764 Input Tokens, 513,012 Output Tokens
 
-💵 $286.40 Estimated AI Cost This Week
+💵 $216.13 Estimated AI Cost This Week
 
-🧠 37 AI Sessions, 278 AI Prompts
+🧠 33 AI Sessions, 241 AI Prompts
 
-Deepseek                 8,329 lines         ██████████████████░░░░░░░   70.48 % 
-M                        2,283 lines         █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Opus                     1,057 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-Glm                      144 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-Hy                       4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Deepseek                 8,329 lines         ███████████████████████░░   90.67 % 
+Opus                     822 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Glm                      28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Hy                       4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+M                        2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.35% of written lines came from AI
-📄 Detailed Prompter — average 855 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 31.67% of changed lines were hand-edited
+🤖 AI-Driven — 66.05% of written lines came from AI
+📄 Detailed Prompter — average 906 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 50.99% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
