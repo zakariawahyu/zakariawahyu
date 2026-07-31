@@ -43,19 +43,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1991 commits        ██████████████████░░░░░░░   72.58 % 
+🌞 Morning                1992 commits        ██████████████████░░░░░░░   72.59 % 
 🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
-Thursday                 395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Monday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Thursday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
 Sunday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
@@ -67,37 +67,36 @@ Sunday                   305 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  20 hrs 11 mins      ███████████████████████░░   93.22 % 
-Claude Code              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+VS Code                  16 hrs 20 mins      ███████████████████████░░   91.05 % 
+Claude Code              1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
 
 💻 Operating System: 
-Linux                    21 hrs 39 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 44 mins (45.0%)
+⏱ AI Coding Time: 6 hrs 49 mins (38.05%)
 
-✍️ 8,840 lines written by AI, 4,543 lines written by hand (66.05% AI-written)
+✍️ 1,591 lines written by AI, 4,674 lines written by hand (25.4% AI-written)
 
-🔤 42,565,764 Input Tokens, 513,012 Output Tokens
+🔤 56,468,306 Input Tokens, 287,772 Output Tokens
 
-💵 $216.13 Estimated AI Cost This Week
+💵 $276.50 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 241 AI Prompts
+🧠 16 AI Sessions, 275 AI Prompts
 
-Deepseek                 8,329 lines         ███████████████████████░░   90.67 % 
-Opus                     822 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Glm                      28 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Hy                       4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-M                        2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Opus                     1,144 lines         ███████████████░░░░░░░░░░   58.22 % 
+Deepseek                 821 lines           ██████████░░░░░░░░░░░░░░░   41.78 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 66.05% of written lines came from AI
-📄 Detailed Prompter — average 906 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 50.99% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 25.4% of written lines came from AI
+📝 Concise Prompter — average 197 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🔍 Hands-On Reviewer — 84.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
