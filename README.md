@@ -36,15 +36,15 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C415%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C421%20hrs%2013%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-68%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1992 commits        ██████████████████░░░░░░░   72.59 % 
-🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+🌞 Morning                1993 commits        ██████████████████░░░░░░░   72.60 % 
+🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
@@ -53,11 +53,11 @@
 ```text
 Monday                   337 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
+Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 Thursday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Friday                   393 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Sunday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+Friday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Saturday                 453 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Sunday                   305 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
 
@@ -67,36 +67,36 @@ Sunday                   305 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  16 hrs 20 mins      ███████████████████████░░   91.05 % 
-Claude Code              1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+VS Code                  16 hrs 9 mins       ███████████████████████░░   90.18 % 
+Claude Code              1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
 
 💻 Operating System: 
-Linux                    17 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 49 mins (38.05%)
+⏱ AI Coding Time: 5 hrs 42 mins (31.88%)
 
-✍️ 1,591 lines written by AI, 4,674 lines written by hand (25.4% AI-written)
+✍️ 1,048 lines written by AI, 4,570 lines written by hand (18.65% AI-written)
 
-🔤 56,468,306 Input Tokens, 287,772 Output Tokens
+🔤 63,205,619 Input Tokens, 226,958 Output Tokens
 
-💵 $276.50 Estimated AI Cost This Week
+💵 $310.25 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 275 AI Prompts
+🧠 14 AI Sessions, 257 AI Prompts
 
-Opus                     1,144 lines         ███████████████░░░░░░░░░░   58.22 % 
-Deepseek                 821 lines           ██████████░░░░░░░░░░░░░░░   41.78 % 
+Opus                     732 lines           ██████████████░░░░░░░░░░░   57.77 % 
+Deepseek                 535 lines           ███████████░░░░░░░░░░░░░░   42.23 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.4% of written lines came from AI
-📝 Concise Prompter — average 197 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🔍 Hands-On Reviewer — 84.73% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 18.65% of written lines came from AI
+📝 Concise Prompter — average 173 characters per prompt
+🔁 Iterative Prompter — average 18 prompts per session
+🔍 Hands-On Reviewer — 89.77% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
