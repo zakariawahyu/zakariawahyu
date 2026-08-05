@@ -36,14 +36,14 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C421%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C423%20hrs%2029%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-70%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-71%20hrs%2035%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1996 commits        ██████████████████░░░░░░░   72.63 % 
+🌞 Morning                1997 commits        ██████████████████░░░░░░░   72.64 % 
 🌆 Daytime                290 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
@@ -52,12 +52,12 @@
 
 ```text
 Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  427 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Tuesday                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                433 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 Thursday                 396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
-Friday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Friday                   394 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Saturday                 454 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Sunday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Sunday                   306 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -67,36 +67,38 @@ Sunday                   306 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  13 hrs 18 mins      ███████████████████████░░   92.10 % 
-Claude Code              1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+VS Code                  13 hrs 23 mins      ███████████████████████░░   90.47 % 
+Claude Code              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Opencode Cli             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 💻 Operating System: 
-Linux                    14 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 16 mins (29.63%)
+⏱ AI Coding Time: 4 hrs 20 mins (29.36%)
 
-✍️ 960 lines written by AI, 3,770 lines written by hand (20.3% AI-written)
+✍️ 1,605 lines written by AI, 4,028 lines written by hand (28.49% AI-written)
 
-🔤 43,438,163 Input Tokens, 144,491 Output Tokens
+🔤 39,121,132 Input Tokens, 149,784 Output Tokens
 
-💵 $219.86 Estimated AI Cost This Week
+💵 $198.03 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 235 AI Prompts
+🧠 14 AI Sessions, 53 AI Prompts
 
-Opus                     547 lines           █████████████░░░░░░░░░░░░   50.18 % 
-Deepseek                 543 lines           ████████████░░░░░░░░░░░░░   49.82 % 
+Opus                     604 lines           █████████░░░░░░░░░░░░░░░░   34.91 % 
+GPT                      583 lines           ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Deepseek                 543 lines           ████████░░░░░░░░░░░░░░░░░   31.39 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 K                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 20.3% of written lines came from AI
-📝 Concise Prompter — average 145 characters per prompt
-🔁 Iterative Prompter — average 24 prompts per session
-🔍 Hands-On Reviewer — 88.26% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 28.49% of written lines came from AI
+📄 Detailed Prompter — average 580 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 84.41% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
