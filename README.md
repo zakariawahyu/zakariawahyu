@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2003 commits        ██████████████████░░░░░░░   72.60 % 
-🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌞 Morning                2004 commits        ██████████████████░░░░░░░   72.61 % 
+🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   338 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Tuesday                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Saturday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+Sunday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
 
@@ -67,38 +67,38 @@ Sunday                   307 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  16 hrs 11 mins      ██████████████████████░░░   89.74 % 
-Claude Code              1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-Opencode Cli             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+VS Code                  15 hrs 17 mins      ██████████████████████░░░   89.46 % 
+Claude Code              1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Opencode Cli             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Linux                    18 hrs 2 mins       █████████████████████████   100.00 % 
+Linux                    17 hrs 5 mins       █████████████████████████   100.00 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 38 mins (53.45%)
+⏱ AI Coding Time: 8 hrs 39 mins (50.66%)
 
-✍️ 13,463 lines written by AI, 1,776 lines written by hand (88.35% AI-written)
+✍️ 12,911 lines written by AI, 3,997 lines written by hand (76.36% AI-written)
 
-🔤 49,301,162 Input Tokens, 408,855 Output Tokens
+🔤 45,251,732 Input Tokens, 376,922 Output Tokens
 
-💵 $244.55 Estimated AI Cost This Week
+💵 $224.41 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 113 AI Prompts
+🧠 21 AI Sessions, 99 AI Prompts
 
-Opus                     6,518 lines         ████████████░░░░░░░░░░░░░   48.05 % 
-Deepseek                 6,465 lines         ████████████░░░░░░░░░░░░░   47.66 % 
-GPT                      583 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Opus                     6,509 lines         █████████████░░░░░░░░░░░░   50.02 % 
+Deepseek                 5,922 lines         ███████████░░░░░░░░░░░░░░   45.50 % 
+GPT                      583 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.35% of written lines came from AI
-📝 Concise Prompter — average 296 characters per prompt
+🤖 AI-Driven — 76.36% of written lines came from AI
+📝 Concise Prompter — average 310 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 25.37% of changed lines were hand-edited
+🚀 High AI Trust — 34.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
