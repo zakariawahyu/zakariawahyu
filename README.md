@@ -36,27 +36,27 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C439%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C440%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2005 commits        ██████████████████░░░░░░░   72.62 % 
-🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+🌞 Morning                2006 commits        ██████████████████░░░░░░░   72.63 % 
+🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Tuesday                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Tuesday                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Thursday                 402 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Saturday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 Sunday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
 
@@ -67,36 +67,36 @@ Sunday                   307 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  11 hrs 49 mins      ██████████████████████░░░   89.47 % 
-Claude Code              1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+VS Code                  8 hrs 52 mins       █████████████████████████   99.32 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    13 hrs 13 mins      █████████████████████████   99.99 % 
+Linux                    8 hrs 55 mins       █████████████████████████   99.99 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 3 mins (53.41%)
+⏱ AI Coding Time: 3 hrs 5 mins (34.56%)
 
-✍️ 10,250 lines written by AI, 3,366 lines written by hand (75.28% AI-written)
+✍️ 993 lines written by AI, 12,969 lines written by hand (7.11% AI-written)
 
-🔤 43,778,642 Input Tokens, 327,531 Output Tokens
+🔤 2,990,647 Input Tokens, 105,004 Output Tokens
 
-💵 $218.02 Estimated AI Cost This Week
+💵 $12.35 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 70 AI Prompts
+🧠 9 AI Sessions, 32 AI Prompts
 
-Opus                     6,430 lines         ████████████████░░░░░░░░░   62.15 % 
-Deepseek                 3,916 lines         █████████░░░░░░░░░░░░░░░░   37.85 % 
+Deepseek                 929 lines           ██████████████████████░░░   88.48 % 
+Opus                     121 lines           ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 75.28% of written lines came from AI
-📝 Concise Prompter — average 370 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 29.54% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.11% of written lines came from AI
+📝 Concise Prompter — average 342 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 95.46% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
