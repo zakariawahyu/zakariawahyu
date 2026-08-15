@@ -36,27 +36,27 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C442%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C442%20hrs%2049%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2033%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2007 commits        ██████████████████░░░░░░░   72.64 % 
+🌞 Morning                2008 commits        ██████████████████░░░░░░░   72.65 % 
 🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Tuesday                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Monday                   339 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Tuesday                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Wednesday                435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Friday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-Saturday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Thursday                 403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Friday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
+Saturday                 455 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 Sunday                   307 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 ```
 
@@ -67,33 +67,32 @@ Sunday                   307 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  5 hrs               █████████████████████████   100.00 % 
+VS Code                  7 hrs 26 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    5 hrs               █████████████████████████   100.00 % 
+Linux                    7 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (4.61%)
+⏱ AI Coding Time: 8 mins (1.82%)
 
-✍️ 166 lines written by AI, 12,885 lines written by hand (1.27% AI-written)
+✍️ 0 lines written by AI, 19,996 lines written by hand (0.0% AI-written)
 
-🔤 42,547 Input Tokens, 8,165 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $0.29 Estimated AI Cost This Week
+💵 $0.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 3 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-Deepseek                 187 lines           █████████████████████████   100.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 21 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.27% of written lines came from AI
-📄 Detailed Prompter — average 1,330 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 99.23% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 179 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
