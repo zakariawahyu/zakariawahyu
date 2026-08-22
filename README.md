@@ -36,16 +36,16 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C450%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C458%20hrs%206%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-79%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-81%20hrs%2039%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2014 commits        ██████████████████░░░░░░░   72.71 % 
+🌞 Morning                2015 commits        ██████████████████░░░░░░░   72.72 % 
 🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
+🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 📅 **I'm Most Productive on Saturday** 
@@ -53,9 +53,9 @@
 ```text
 Monday                   340 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
 Tuesday                  430 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   396 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Saturday                 456 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 Sunday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
 ```
@@ -67,20 +67,20 @@ Sunday                   308 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  12 hrs 6 mins       █████████████████████████   99.51 % 
-Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS Code                  12 hrs 24 mins      █████████████████████████   99.53 % 
+Claude Code              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Linux                    12 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    12 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 5 mins (17.2%)
+⏱ AI Coding Time: 2 hrs 5 mins (16.77%)
 
-✍️ 351 lines written by AI, 9,338 lines written by hand (3.62% AI-written)
+✍️ 351 lines written by AI, 4,447 lines written by hand (7.32% AI-written)
 
 🔤 53,906,999 Input Tokens, 165,921 Output Tokens
 
@@ -93,10 +93,10 @@ Opencode-Cli             12 lines            █░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.62% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.32% of written lines came from AI
 📝 Concise Prompter — average 261 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 98.53% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
