@@ -43,7 +43,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2019 commits        ██████████████████░░░░░░░   72.76 % 
+🌞 Morning                2020 commits        ██████████████████░░░░░░░   72.77 % 
 🌆 Daytime                294 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
@@ -51,13 +51,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-Wednesday                436 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 457 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-Sunday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Wednesday                437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   397 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Saturday                 457 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Sunday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -67,19 +67,19 @@ Sunday                   309 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  7 hrs 34 mins       █████████████████████████   99.64 % 
-Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+VS Code                  14 hrs 14 mins      █████████████████████████   99.81 % 
+Opencode Cli             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Linux                    7 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    14 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 3 mins (27.05%)
+⏱ AI Coding Time: 2 hrs 3 mins (14.41%)
 
-✍️ 351 lines written by AI, 2,328 lines written by hand (13.1% AI-written)
+✍️ 351 lines written by AI, 6,479 lines written by hand (5.14% AI-written)
 
 🔤 53,906,999 Input Tokens, 165,921 Output Tokens
 
@@ -92,10 +92,10 @@ Opencode-Cli             12 lines            █░░░░░░░░░░�
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 13.1% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.14% of written lines came from AI
 📝 Concise Prompter — average 270 characters per prompt
 🔁 Iterative Prompter — average 12 prompts per session
-🔍 Hands-On Reviewer — 88.42% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
