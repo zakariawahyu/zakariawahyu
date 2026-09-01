@@ -43,19 +43,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2021 commits        ██████████████████░░░░░░░   72.70 % 
+🌞 Morning                2022 commits        ██████████████████░░░░░░░   72.71 % 
 🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  431 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Wednesday                437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Wednesday                437 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 Saturday                 458 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 Sunday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
@@ -67,16 +67,34 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  11 hrs 27 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 12 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    11 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 3 mins (0.38%)
+
+✍️ 0 lines written by AI, 13,883 lines written by hand (0.0% AI-written)
+
+🔤 238,866 Input Tokens, 4,396 Output Tokens
+
+💵 $1.68 Estimated AI Cost This Week
+
+🧠 12 AI Sessions, 8 AI Prompts
+
+Deepseek                 21 lines            █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 26 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
