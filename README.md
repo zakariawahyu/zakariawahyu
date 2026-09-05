@@ -36,28 +36,28 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C481%20hrs%2011%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C485%20hrs%202%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%206%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2025 commits        ██████████████████░░░░░░░   72.74 % 
-🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+🌞 Morning                2026 commits        ██████████████████░░░░░░░   72.75 % 
+🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   342 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
-Tuesday                  432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Tuesday                  432 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 Wednesday                438 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 Thursday                 406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Friday                   398 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Friday                   399 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
 Saturday                 458 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Sunday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Sunday                   310 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 ```
 
 
@@ -67,35 +67,36 @@ Sunday                   310 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  17 hrs 15 mins      ███████████████████████░░   92.71 % 
-Claude Code              1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+VS Code                  15 hrs 44 mins      ███████████████████████░░   90.54 % 
+Claude Code              1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 💻 Operating System: 
-Linux                    18 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    17 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 26 mins (18.52%)
+⏱ AI Coding Time: 3 hrs 56 mins (22.71%)
 
-✍️ 543 lines written by AI, 14,153 lines written by hand (3.69% AI-written)
+✍️ 1,700 lines written by AI, 8,143 lines written by hand (17.27% AI-written)
 
-🔤 3,720,811 Input Tokens, 213,194 Output Tokens
+🔤 4,131,832 Input Tokens, 252,750 Output Tokens
 
-💵 $37.41 Estimated AI Cost This Week
+💵 $39.72 Estimated AI Cost This Week
 
-🧠 60 AI Sessions, 57 AI Prompts
+🧠 62 AI Sessions, 70 AI Prompts
 
-Opus                     514 lines           ███████████████████████░░   90.49 % 
-OMP                      54 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Sonnet                   1,330 lines         ██████████████████░░░░░░░   70.07 % 
+Opus                     514 lines           ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+OMP                      54 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 3.69% of written lines came from AI
-📝 Concise Prompter — average 106 characters per prompt
+🧑‍💻 Mostly Hands-On — 17.27% of written lines came from AI
+📝 Concise Prompter — average 120 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 98.03% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.98% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
