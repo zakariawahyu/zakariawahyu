@@ -43,7 +43,7 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2037 commits        ██████████████████░░░░░░░   72.85 % 
+🌞 Morning                2038 commits        ██████████████████░░░░░░░   72.86 % 
 🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
 🌃 Evening                280 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
@@ -53,11 +53,11 @@
 ```text
 Monday                   344 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  434 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Wednesday                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   400 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Saturday                 460 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Sunday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   312 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
 ```
 
 
@@ -67,34 +67,36 @@ Sunday                   312 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  2 hrs 24 mins       █████████████████████████   99.38 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+VS Code                  4 hrs 19 mins       ████████████████░░░░░░░░░   65.42 % 
+OMP                      2 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   34.36 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 8 mins (88.76%)
+⏱ AI Coding Time: 6 hrs 11 mins (93.61%)
 
-✍️ 78 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 553 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 20,669,466 Input Tokens, 220,458 Output Tokens
+🔤 85,934,200 Input Tokens, 603,623 Output Tokens
 
-💵 $120.06 Estimated AI Cost This Week
+💵 $296.63 Estimated AI Cost This Week
 
-🧠 267 AI Sessions, 98 AI Prompts
+🧠 715 AI Sessions, 323 AI Prompts
 
-OMP                      78 lines            █████████████████████████   100.00 % 
+OMP                      553 lines           █████████████████████████   100.00 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Glm                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 98 characters per prompt
+📝 Concise Prompter — average 83 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -102,11 +104,11 @@ Opus                     0 lines             ░░░░░░░░░░░�
 **I Mostly Code in Go** 
 
 ```text
-Go                       24 repos            ████████████░░░░░░░░░░░░░   46.15 % 
-PHP                      10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Go                       24 repos            ███████████░░░░░░░░░░░░░░   45.28 % 
+JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 
 
