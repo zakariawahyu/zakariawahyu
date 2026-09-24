@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2044 commits        ██████████████████░░░░░░░   72.92 % 
-🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌞 Morning                2045 commits        ██████████████████░░░░░░░   72.93 % 
+🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Tuesday                  435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 408 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Monday                   345 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Tuesday                  435 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Wednesday                441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Thursday                 408 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Friday                   401 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Saturday                 461 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Sunday                   313 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 
 
@@ -67,37 +67,33 @@ Sunday                   313 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-OMP                      2 hrs 16 mins       █████████████░░░░░░░░░░░░   52.29 % 
-VS Code                  2 hrs 3 mins        ████████████░░░░░░░░░░░░░   47.36 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+VS Code                  8 mins              ███████████████████████░░   90.35 % 
+Claude Code              0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 
 💻 Operating System: 
-Linux                    4 hrs 20 mins       █████████████████████████   100.00 % 
+Linux                    8 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 3 mins (93.59%)
+⏱ AI Coding Time: 1 min (13.22%)
 
-✍️ 475 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 65,264,734 Input Tokens, 383,165 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $177.74 Estimated AI Cost This Week
+💵 $1.17 Estimated AI Cost This Week
 
-🧠 449 AI Sessions, 229 AI Prompts
+🧠 1 AI Sessions, 4 AI Prompts
 
-OMP                      475 lines           █████████████████████████   100.00 % 
-Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 76 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 39 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
