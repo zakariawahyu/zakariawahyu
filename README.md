@@ -43,21 +43,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2057 commits        ██████████████████░░░░░░░   73.05 % 
-🌆 Daytime                297 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+🌞 Morning                2057 commits        ██████████████████░░░░░░░   72.97 % 
+🌆 Daytime                300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  436 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Saturday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Sunday                   315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Monday                   347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Tuesday                  439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Wednesday                442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Thursday                 410 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Friday                   403 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+Saturday                 463 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Sunday                   315 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
@@ -67,11 +67,11 @@ Sunday                   315 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  1 hr 24 mins        █████████████████████████   98.93 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+VS Code                  51 mins             █████████████████████████   98.27 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 
 💻 Operating System: 
-Linux                    1 hr 24 mins        █████████████████████████   100.00 % 
+Linux                    51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,11 +83,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Go** 
 
 ```text
-Go                       24 repos            ███████████░░░░░░░░░░░░░░   45.28 % 
-JavaScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Go                       24 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Python                   2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Astro                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Dockerfile               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
