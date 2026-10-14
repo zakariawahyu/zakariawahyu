@@ -36,25 +36,25 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C493%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C495%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2065 commits        ██████████████████░░░░░░░   72.99 % 
-🌆 Daytime                302 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+🌞 Morning                2065 commits        ██████████████████░░░░░░░   72.97 % 
+🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  439 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-Wednesday                445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Friday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
 Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
@@ -67,11 +67,14 @@ Sunday                   316 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-VS Code                  1 min               ██████████████░░░░░░░░░░░   55.43 % 
-Claude Code              0 secs              ███████████░░░░░░░░░░░░░░   44.57 % 
+GoLand                   1 hr 12 mins        ████████████████████░░░░░   78.49 % 
+RustRover                17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 💻 Operating System: 
-Linux                    1 min               █████████████████████████   100.00 % 
+Windows                  1 hr 29 mins        █████████████████████████   98.76 % 
+Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 
 🤖 **AI Coding This Week** 
