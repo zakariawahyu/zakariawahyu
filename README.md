@@ -36,28 +36,28 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C495%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C500%20hrs%2014%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2065 commits        ██████████████████░░░░░░░   72.97 % 
-🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+🌞 Morning                2066 commits        ██████████████████░░░░░░░   72.98 % 
+🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-Wednesday                445 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Friday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Friday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 
 
@@ -67,14 +67,14 @@ Sunday                   316 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   1 hr 12 mins        ████████████████████░░░░░   78.49 % 
-RustRover                17 mins             █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+GoLand                   5 hrs 57 mins       ████████████████████████░   95.03 % 
+RustRover                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 29 mins        █████████████████████████   98.76 % 
-Linux                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Windows                  6 hrs 15 mins       █████████████████████████   99.99 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
