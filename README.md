@@ -36,14 +36,14 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C500%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C504%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2048%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2066 commits        ██████████████████░░░░░░░   72.98 % 
+🌞 Morning                2067 commits        ██████████████████░░░░░░░   72.99 % 
 🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
@@ -54,9 +54,9 @@
 Monday                   348 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Thursday                 413 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Thursday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Friday                   404 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Saturday                 464 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Sunday                   316 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
 ```
 
@@ -67,14 +67,12 @@ Sunday                   316 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   5 hrs 57 mins       ████████████████████████░   95.03 % 
-RustRover                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+GoLand                   10 hrs 9 mins       ████████████████████████░   97.03 % 
+RustRover                17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 💻 Operating System: 
-Windows                  6 hrs 15 mins       █████████████████████████   99.99 % 
-Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Windows                  10 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
