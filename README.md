@@ -36,14 +36,14 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C509%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%2012%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-92%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2071 commits        ██████████████████░░░░░░░   73.03 % 
+🌞 Morning                2072 commits        ██████████████████░░░░░░░   73.03 % 
 🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
@@ -51,13 +51,13 @@
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Tuesday                  440 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Thursday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Saturday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
@@ -67,34 +67,36 @@ Sunday                   317 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   14 hrs 27 mins      ███████████████████████░░   92.85 % 
-VS Code                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-RustRover                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+GoLand                   16 hrs 27 mins      ██████████████████████░░░   86.97 % 
+VS Code                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Goland                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  15 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 55 mins (5.99%)
+⏱ AI Coding Time: 1 hr 40 mins (8.81%)
 
-✍️ 38 lines written by AI, 2,312 lines written by hand (1.62% AI-written)
+✍️ 437 lines written by AI, 3,486 lines written by hand (11.14% AI-written)
 
-🔤 7,533,162 Input Tokens, 40,990 Output Tokens
+🔤 15,143,383 Input Tokens, 69,840 Output Tokens
 
-💵 $44.60 Estimated AI Cost This Week
+💵 $48.86 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 8 AI Prompts
+🧠 126 AI Sessions, 17 AI Prompts
 
 OMP                      38 lines            █████████████████████████   100.00 % 
+Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.62% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
+🧑‍💻 Mostly Hands-On — 11.14% of written lines came from AI
+📝 Concise Prompter — average 164 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 98.39% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
