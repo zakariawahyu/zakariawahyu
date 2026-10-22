@@ -36,27 +36,27 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C520%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2028%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2042%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2072 commits        ██████████████████░░░░░░░   73.03 % 
+🌞 Morning                2073 commits        ██████████████████░░░░░░░   73.04 % 
 🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                446 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 Thursday                 414 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   405 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 465 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
@@ -67,36 +67,36 @@ Sunday                   317 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   16 hrs 27 mins      ██████████████████████░░░   86.97 % 
-VS Code                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Goland                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+GoLand                   16 hrs 57 mins      ████████████████████░░░░░   81.70 % 
+VS Code                  3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Goland                   32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 💻 Operating System: 
-Windows                  18 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 40 mins (8.81%)
+⏱ AI Coding Time: 1 hr 54 mins (9.18%)
 
-✍️ 437 lines written by AI, 3,486 lines written by hand (11.14% AI-written)
+✍️ 493 lines written by AI, 3,621 lines written by hand (11.98% AI-written)
 
-🔤 15,143,383 Input Tokens, 69,840 Output Tokens
+🔤 18,670,852 Input Tokens, 81,532 Output Tokens
 
 💵 $48.86 Estimated AI Cost This Week
 
-🧠 126 AI Sessions, 17 AI Prompts
+🧠 181 AI Sessions, 19 AI Prompts
 
 OMP                      38 lines            █████████████████████████   100.00 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 11.14% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 11.98% of written lines came from AI
 📝 Concise Prompter — average 164 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 90.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
