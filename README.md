@@ -43,10 +43,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2076 commits        ██████████████████░░░░░░░   73.07 % 
-🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+🌞 Morning                2077 commits        ██████████████████░░░░░░░   73.08 % 
+🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
@@ -54,10 +54,10 @@
 Monday                   349 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
 Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-Sunday                   317 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 ```
 
 
@@ -67,36 +67,37 @@ Sunday                   317 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   19 hrs 49 mins      ███████████████████░░░░░░   77.53 % 
-VS Code                  4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Goland                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GoLand                   18 hrs 13 mins      ███████████████████░░░░░░   76.02 % 
+VS Code                  4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Goland                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Windows                  25 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (9.1%)
+⏱ AI Coding Time: 1 hr 35 mins (6.63%)
 
-✍️ 655 lines written by AI, 1,893 lines written by hand (25.71% AI-written)
+✍️ 643 lines written by AI, 1,893 lines written by hand (25.35% AI-written)
 
-🔤 22,700,369 Input Tokens, 110,594 Output Tokens
+🔤 12,056,548 Input Tokens, 69,533 Output Tokens
 
-💵 $65.48 Estimated AI Cost This Week
+💵 $4.41 Estimated AI Cost This Week
 
-🧠 265 AI Sessions, 24 AI Prompts
+🧠 156 AI Sessions, 16 AI Prompts
 
-OMP                      12 lines            █████████████████████████   100.00 % 
 Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 25.71% of written lines came from AI
-📝 Concise Prompter — average 158 characters per prompt
+🧑‍💻 Mostly Hands-On — 25.35% of written lines came from AI
+📝 Concise Prompter — average 180 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 85.82% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 86.04% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
