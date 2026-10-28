@@ -36,15 +36,15 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C537%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C545%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-94%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2078 commits        ██████████████████░░░░░░░   73.09 % 
-🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+🌞 Morning                2079 commits        ██████████████████░░░░░░░   73.10 % 
+🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
@@ -52,12 +52,12 @@
 
 ```text
 Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Tuesday                  441 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
 Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
 Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
 Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
+Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
 
@@ -67,37 +67,38 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   22 hrs 50 mins      ████████████████████░░░░░   80.10 % 
-VS Code                  4 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Goland                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-RustRover                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+GoLand                   25 hrs 59 mins      █████████████████████░░░░   83.52 % 
+VS Code                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Goland                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+OMP                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-Windows                  21 hrs 15 mins      ███████████████████░░░░░░   74.55 % 
-Linux                    7 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
+Windows                  16 hrs 23 mins      █████████████░░░░░░░░░░░░   52.67 % 
+Linux                    14 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.33 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 35 mins (5.57%)
+⏱ AI Coding Time: 2 hrs 11 mins (7.05%)
 
-✍️ 643 lines written by AI, 2,575 lines written by hand (19.98% AI-written)
+✍️ 650 lines written by AI, 1,813 lines written by hand (26.39% AI-written)
 
-🔤 12,056,548 Input Tokens, 69,533 Output Tokens
+🔤 24,558,291 Input Tokens, 167,165 Output Tokens
 
-💵 $4.41 Estimated AI Cost This Week
+💵 $44.75 Estimated AI Cost This Week
 
-🧠 156 AI Sessions, 16 AI Prompts
+🧠 263 AI Sessions, 21 AI Prompts
 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   266 lines           ████████████████░░░░░░░░░   65.52 % 
+DeepSeek                 140 lines           █████████░░░░░░░░░░░░░░░░   34.48 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 19.98% of written lines came from AI
-📝 Concise Prompter — average 180 characters per prompt
+🧑‍💻 Mostly Hands-On — 26.39% of written lines came from AI
+📝 Concise Prompter — average 281 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 89.77% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.42% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
