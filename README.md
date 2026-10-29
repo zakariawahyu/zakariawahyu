@@ -36,27 +36,27 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C545%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2079 commits        ██████████████████░░░░░░░   73.10 % 
+🌞 Morning                2080 commits        ██████████████████░░░░░░░   73.11 % 
 🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                447 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
 Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
 Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 
@@ -67,38 +67,38 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   25 hrs 59 mins      █████████████████████░░░░   83.52 % 
-VS Code                  3 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Goland                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-OMP                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+GoLand                   24 hrs 41 mins      ██████████████████████░░░   86.66 % 
+VS Code                  2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+Goland                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+OMP                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Windows                  16 hrs 23 mins      █████████████░░░░░░░░░░░░   52.67 % 
-Linux                    14 hrs 44 mins      ████████████░░░░░░░░░░░░░   47.33 % 
+Linux                    18 hrs 41 mins      ████████████████░░░░░░░░░   65.57 % 
+Windows                  9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 11 mins (7.05%)
+⏱ AI Coding Time: 1 hr 57 mins (6.87%)
 
-✍️ 650 lines written by AI, 1,813 lines written by hand (26.39% AI-written)
+✍️ 594 lines written by AI, 1,662 lines written by hand (26.33% AI-written)
 
-🔤 24,558,291 Input Tokens, 167,165 Output Tokens
+🔤 21,030,822 Input Tokens, 155,473 Output Tokens
 
 💵 $44.75 Estimated AI Cost This Week
 
-🧠 263 AI Sessions, 21 AI Prompts
+🧠 208 AI Sessions, 19 AI Prompts
 
 Gemini                   266 lines           ████████████████░░░░░░░░░   65.52 % 
 DeepSeek                 140 lines           █████████░░░░░░░░░░░░░░░░   34.48 % 
 OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.39% of written lines came from AI
-📝 Concise Prompter — average 281 characters per prompt
+🧑‍💻 Mostly Hands-On — 26.33% of written lines came from AI
+📝 Concise Prompter — average 293 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.42% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.47% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
