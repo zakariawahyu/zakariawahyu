@@ -36,28 +36,28 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C552%20hrs%2010%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2080 commits        ██████████████████░░░░░░░   73.11 % 
+🌞 Morning                2081 commits        ██████████████████░░░░░░░   73.12 % 
 🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
 🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
 Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
-Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
-Thursday                 415 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
 Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
 
 
@@ -67,38 +67,36 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   24 hrs 41 mins      ██████████████████████░░░   86.66 % 
-VS Code                  2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-Goland                   34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-OMP                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+GoLand                   22 hrs 23 mins      ██████████████████████░░░   89.06 % 
+VS Code                  2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+OMP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 
 💻 Operating System: 
-Linux                    18 hrs 41 mins      ████████████████░░░░░░░░░   65.57 % 
-Windows                  9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   34.43 % 
+Linux                    21 hrs 46 mins      ██████████████████████░░░   86.63 % 
+Windows                  3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 57 mins (6.87%)
+⏱ AI Coding Time: 1 hr 47 mins (7.15%)
 
-✍️ 594 lines written by AI, 1,662 lines written by hand (26.33% AI-written)
+✍️ 406 lines written by AI, 1,247 lines written by hand (24.56% AI-written)
 
-🔤 21,030,822 Input Tokens, 155,473 Output Tokens
+🔤 20,770,124 Input Tokens, 135,859 Output Tokens
 
-💵 $44.75 Estimated AI Cost This Week
+💵 $46.72 Estimated AI Cost This Week
 
-🧠 208 AI Sessions, 19 AI Prompts
+🧠 206 AI Sessions, 17 AI Prompts
 
 Gemini                   266 lines           ████████████████░░░░░░░░░   65.52 % 
 DeepSeek                 140 lines           █████████░░░░░░░░░░░░░░░░   34.48 % 
-OMP                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 26.33% of written lines came from AI
-📝 Concise Prompter — average 293 characters per prompt
+🧑‍💻 Mostly Hands-On — 24.56% of written lines came from AI
+📝 Concise Prompter — average 310 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🔍 Hands-On Reviewer — 99.47% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 99.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Go** 
