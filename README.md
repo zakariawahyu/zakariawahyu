@@ -36,26 +36,26 @@
   </ul>
 </ul>
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C552%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C552%20hrs%2022%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%207%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2081 commits        ██████████████████░░░░░░░   73.12 % 
-🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+🌞 Morning                2082 commits        ██████████████████░░░░░░░   73.13 % 
+🌆 Daytime                303 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌃 Evening                280 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
 🌙 Night                  182 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Monday                   350 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
 Tuesday                  442 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 Wednesday                448 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Friday                   406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Thursday                 416 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
+Friday                   407 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
 Saturday                 466 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 Sunday                   318 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
 ```
@@ -67,21 +67,20 @@ Sunday                   318 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 🔥 Editors: 
-GoLand                   22 hrs 23 mins      ██████████████████████░░░   89.06 % 
-VS Code                  2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
-OMP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+GoLand                   20 hrs 16 mins      ███████████████████████░░   92.21 % 
+VS Code                  58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+OMP                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-Linux                    21 hrs 46 mins      ██████████████████████░░░   86.63 % 
-Windows                  3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Linux                    21 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 47 mins (7.15%)
+⏱ AI Coding Time: 1 hr 47 mins (8.18%)
 
-✍️ 406 lines written by AI, 1,247 lines written by hand (24.56% AI-written)
+✍️ 406 lines written by AI, 1,160 lines written by hand (25.93% AI-written)
 
 🔤 20,770,124 Input Tokens, 135,859 Output Tokens
 
@@ -93,7 +92,7 @@ Gemini                   266 lines           ███████████�
 DeepSeek                 140 lines           █████████░░░░░░░░░░░░░░░░   34.48 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 24.56% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 25.93% of written lines came from AI
 📝 Concise Prompter — average 310 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 99.63% of changed lines were hand-edited
